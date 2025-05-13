@@ -4,6 +4,7 @@
 3. Run command python scripts/build_faiss_index.py.
 4. Run command streamlit run frontend/streamlit_app.py
 5. After running this command open browser in localhost:8501         
-![image](https://github.com/user-attachments/assets/a1ec7df2-7f69-4476-acb9-6c64956ee1be)
-![image](https://github.com/user-attachments/assets/b7f29a7a-843c-426e-99af-8d6142a7d162)
+![image](https://github.com/user-attachments/assets/8288e76d-6548-4525-8ed7-78f07eb2ef13)
+![image](https://github.com/user-attachments/assets/6e637368-633d-4b5a-b1da-49c68a16abd1)
+
 
