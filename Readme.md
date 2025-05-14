@@ -1,3 +1,11 @@
+# RAG Chatbot
+
+## Features
+- Retrieval Augmented Generation chatbot for Customer Support.
+- Answers strictly based on provided documentation.
+- Replies "I Don't know" for out-of-scope questions.
+- Web interface using Streamlit.
+
 #Steps to run to rag_chatboat
 1. Create virtual enivorement and run command source venv/bin/activate.
 2. Run command  pip3 install -r requirements.txt
