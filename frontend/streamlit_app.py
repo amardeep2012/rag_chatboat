@@ -1,6 +1,6 @@
 import streamlit as st
-from app.retriever import Retriever
-from app.rag_pipeline import RAGPipeline
+from backend.app.retriever import Retriever
+from backend.app.rag_pipeline import RAGPipeline
 
 retriever = Retriever("embeddings/faiss_index/index.index")
 rag_pipeline = RAGPipeline(retriever)
