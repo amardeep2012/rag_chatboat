@@ -1,4 +1,5 @@
+dotenv 
 streamlit
 sentence-transformers
 faiss-cpu
-dotenv 
+openai
